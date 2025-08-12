@@ -15,7 +15,7 @@ main.py                        # Main script with training & prediction code
 README.md                      # This file
 
 
-⚙️ Tools & Technologies Used
+#⚙️ Tools & Technologies Used
 Python 3.9+
 
 Pandas – Data manipulation and analysis
@@ -25,7 +25,7 @@ NumPy – Numerical operations
 Matplotlib & Seaborn – Data visualization
 
 
-🚀 Features
+#🚀 Features
 Cleans and preprocesses Boston Housing Dataset
 
 Handles missing values and normalizes features
@@ -40,7 +40,7 @@ Saves model (.pkl) and scaler for future use
 
 Predicts house prices for new data
 
-📊 Model & Evaluation
+#📊 Model & Evaluation
 The model used is a Random Forest Regressor (you can change it to Linear Regression, Gradient Boosting, etc. in main.py).
 Evaluation metrics include:
 
